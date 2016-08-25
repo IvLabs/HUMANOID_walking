@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # license removed for brevity
-### motor behavior when goal angle is continuously given ###
 
 from beginner_tutorials.msg import angles_msg
 import rospy
